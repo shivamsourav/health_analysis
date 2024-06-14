@@ -54,6 +54,8 @@ Create an interactive dashboard that allows users to filter and explore the data
 Include slicers for age, gender, and other relevant fields.
 Results and Insights
 After completing the data analysis in Power BI, document the key findings and insights:
+![image](https://github.com/shivamsourav/health_analysis/assets/76955215/03b3ae8f-838c-452b-84bf-5c46e2690ac3)
+
 
 Identify significant patterns or trends in the data.
 Highlight factors that have a strong correlation with liver disease.
